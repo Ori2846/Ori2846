@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Henry
+💡  I like to explore new technologies and develop software solutions.
+🎓  I'm currently studying Computer Science.
+✉️  You can shoot me an email at hdo2846@gmail.com! 
 <!--
 **Ori2846/Ori2846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
